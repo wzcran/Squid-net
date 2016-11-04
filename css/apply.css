@@ -209,6 +209,7 @@
 }
 
 .f3_bottom>img{
+	display:inline-block;
 	margin:10 auto;	
 	
 }

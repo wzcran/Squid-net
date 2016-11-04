@@ -757,7 +757,8 @@ span.pwd_icon{
 }
 
 .f3_bottom>img{
-	margin:10 auto;	
+	display:inline-block;
+	margin:10px auto;	
 	
 }
 /*首页结束*/
